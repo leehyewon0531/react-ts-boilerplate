@@ -3,7 +3,7 @@
 | 구분 | 이름 |
 |---|---|
 | Main library | `React` |
-| Build | `Vite` |
+| Configuration | `Vite` |
 | Language | `TypeScript` |
 | CSS-in-JS | `styled-components` |
 | State management | `recoil` |
